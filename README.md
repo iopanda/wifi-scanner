@@ -1,1 +1,1 @@
-# wifi-scanner
+# wifi-killer
