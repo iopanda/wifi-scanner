@@ -28,9 +28,9 @@ module.exports = {
                 console.log(err);
             })
 
-            handler.stdout.on('data', (data)=>{
-                console.log(data.toString());
-            })
+//             handler.stdout.on('data', (data)=>{
+//                 console.log(data.toString());
+//             })
         }
         return handler;
     }
